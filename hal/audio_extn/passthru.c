@@ -32,7 +32,7 @@
 #include <stdlib.h>
 #include <cutils/atomic.h>
 #include <cutils/str_parms.h>
-#include <cutils/log.h>
+#include <log/log.h>
 #include "audio_hw.h"
 #include "audio_extn.h"
 #include "platform_api.h"
